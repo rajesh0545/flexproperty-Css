@@ -1,0 +1,25 @@
+
+
+        #End {
+            width: 300px;
+            height: 200px;
+            border: 1px solid black;
+            display: flex;
+            text-align: center;
+        }
+         
+        #End div {
+            flex: 1;
+        }
+         
+        .code1{
+            background-color: green;
+        }
+         
+        .code2{
+            background-color: lightgreen;
+        }
+         
+        .code3 {
+            background-color: darkgreen;
+        }
